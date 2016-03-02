@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=HelloWorld_v2
+PROJECTNAME=Calculate NASA and Military Budget
 
 # Active Configuration
 DEFAULTCONF=Debug
