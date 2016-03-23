@@ -17,6 +17,10 @@ using namespace std;
 //Execution Starts Here
 
 int main(int argc, char** argv) {
+    cout.setf(ios::fixed);
+    cout.setf(ios::showpoint);
+    cout.precision(2);
+    
     //Declare Variables
     float lumSumP = 0.62; //Lump Sum Penalty
     float taxPen = 0.52; //Tax Penalty
