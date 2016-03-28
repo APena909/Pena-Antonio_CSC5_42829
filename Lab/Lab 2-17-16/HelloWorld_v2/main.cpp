@@ -1,13 +1,13 @@
 /* 
  * File:   main.cpp
- * Author: Antonio Pena
- * Created on February 17, 2016, 9:45 AM
- * Purpose: Our first program
+ * Author: Antonio Peña
+ * March 28, 2016
+ * Purpose: Savitch 9th Edition Chapter 1 Prac. Prob. 1
  */
 
 //System Libraries
 #include <iostream>
-//using namespace std;
+using namespace std;
 
 //User Libraries
 
@@ -26,7 +26,6 @@ int main(int argc, char** argv) {
     //Map the inputs to the outputs
     
     //Output the results
-    std::cout<<"Hello World"<<std::endl;
     
     //Exit Stage Right!
 
