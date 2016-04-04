@@ -3,9 +3,9 @@
  * Author: Antonio Peña
  * Purpose:  To Illustrate the code for
  *           developing a menu with a loop and Functions
- * Problem 1 -> Sum the numbers between 1 and 10
- * Problem 2 -> Multiply the numbers between 1 and 10
- * Problem 3 -> Divide the numbers between 1 and 10
+ * Problem 1 -> 
+ * Problem 2 ->
+ * Problem 3 -> 
  * Modified on April 4th, 2016
  */
 
@@ -80,7 +80,6 @@ void menu(){
 //000000011111111112222222222333333333344444444445555555555666666666677777777778
 //345678901234567890123456789012345678901234567890123456789012345678901234567890
 void prob1(){
-    //Character '1' in Decimal
     int sum=1+2+3+4+5+6+7+8+9+10;
     cout<<endl;
     cout<<"Solution to 1 sum(1->10)="<<sum<<endl;
