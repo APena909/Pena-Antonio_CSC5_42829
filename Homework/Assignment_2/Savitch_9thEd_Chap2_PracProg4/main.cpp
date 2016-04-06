@@ -36,10 +36,10 @@ int main(int argc, char** argv) {
     cout<<"What is the first or last name of your instructor?"<<endl;
     cin>>insName;
     
-    cout<<"What is your name?"<<endl;
+    cout<<"What is your first name?"<<endl;
     cin>>youName;
     
-    cout<<"What is your favorite food?"<<endl;
+    cout<<"What is your favorite food?(Singular form)"<<endl;
     cin>>food;
     
     cout<<"Enter a number between 100 and 120: "<<endl;
